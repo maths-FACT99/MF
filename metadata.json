@@ -1,0 +1,6 @@
+{
+  "name": "MATHS FACT - Concept Coaching by Satyam Sir (CBSE & ICSE Classes III-XII)",
+  "description": "Official coaching institute website & student/admin portal for MATHS FACT by Satyam Sir. Concept-based coaching in Mathematics, Science & Social Science in Dhanbad, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
